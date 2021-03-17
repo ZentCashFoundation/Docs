@@ -13,7 +13,7 @@
 
 Access to Bit2Me: https://bit2me.com/register?r=AOP-U0D-KIU
 
-<p align="center"><img width="30%" height="30%" src="./IMG/bidi.png"></p>
+<p align="center"><img width="128px" height="128px" src="./IMG/bidi.png"></p>
 
 All you have to do is go to the Access section or click on this [link](https://bit2me.com/es/registro?r=AOP-U0D-KIU).
 
@@ -25,7 +25,9 @@ We click on the Register button. Enter your email and password. Accept the terms
 
 ![](./IMG/bit2me-1.png)
 
-Once you have registered, enter your email and you will find this Bit2Me message to verify your account. Click on **Confirm** **Email**. If the button doesn't work, copy the attached link to your browser to confirm it. In this easy and simple way you will have your email account verified. (If you haven't received the message yet, click the **Resend Email** button. Remember to check your spam folder as well.)
+Once you have registered, enter your email and you will find this Bit2Me message to verify your account. Click on **Confirm** **Email**. If the button doesn't work, copy the attached link to your browser to confirm it. In this easy and simple way you will have your email account verified. (If you haven't received the message yet, click the **Resend Email** button. 
+
+> Remember to check your spam folder as well
 
 When you confirm your account, you can edit your profile, create a username, and link your phone number if you wish.
 
@@ -74,7 +76,7 @@ Now we can send our Bitcoins to our Finexbox wallet
 
 Go to [finexbox.com](https://www.finexbox.com/Reg/register/referrer/371)
 
-<img src="./IMG/finexbox-qr.png" alt="img" style="zoom:20%;" />
+<p align="center"><img width="128px" height="128px" alt="img" src="./IMG/finexbox-qr.png"></p>
 
  Click on the registration button
 
@@ -164,21 +166,20 @@ The <span style="color:green">**left**</span> column is people who want to <span
 
 You can try to sell Zents and/or buy them at the price you want, if you want to buy or sell immediately, just select the **first order** in each column.
 
-- **To buy:**
+**To buy:**
+
 - Select the first <span style="color:red">**red column**</span> row on the right.
-  
 - The data will appear in the green <span style="color:green">**Buy**</span> box.
-  
 - Click on the <span style="color:green">**Buy**</span> button
-  
+
 
 ![Buy Zents](./IMG/buy-zents.png)
 
-- **To sell:**
+**To sell:**
 
-  - Select the first <span style="color:green">**green column**</span> row on the left.
+- Select the first <span style="color:green">**green column**</span> row on the left.
 - The data will appear in the green <span style="color:red">**Sell**</span> box.
-  - Click on the <span style="color:red">**Sell**</span> button
+- Click on the <span style="color:red">**Sell**</span> button
 
 ![Sell Zents](./IMG/sell-zent.png)
 
@@ -240,7 +241,3 @@ Your order will appear in Withdraw History as pending.
 > 🚧
 > <span style="color:magenta">**For security reasons, you may not see the "Completed" message when you make the transaction, but a message indicating that, if in 5 minutes it does not appear in the history, you have to send an email to Finexbox support, in this case, send them an email to reactivate the Withdrawal. **</span>
 > 🚧
-
- 
-
- 
