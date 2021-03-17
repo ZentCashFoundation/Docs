@@ -1,0 +1,2 @@
+# docs
+Zent Cash Documentation
