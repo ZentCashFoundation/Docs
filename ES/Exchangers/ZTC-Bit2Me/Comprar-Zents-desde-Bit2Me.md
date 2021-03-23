@@ -79,7 +79,7 @@ Vaya a [Finexbox.com](https://www.Finexbox.com/Reg/register/referrer/371)
 
  Haga clic en el botón de registro
 
-![img](./IMG/Finexbox-01.png)
+![img](./IMG/finexbox-01.png)
 
 Introduzca su correo electrónico de Gmail si es posible, y una contraseña dos veces
 
@@ -87,7 +87,7 @@ Introduzca su correo electrónico de Gmail si es posible, y una contraseña dos 
 
 Si lo desea, puede agregar el ID de referencia: **371**
 
-![img](./IMG/Finexbox-registration.png)
+![img](./IMG/finexbox-registration.png)
 
 Finexbox implementa un sistema de seguridad en dos pasos para prevenir el robo de criptomonedas, de modo que incluso si descubren su contraseña, no podrán ingresar sin el código que se genera cada 30 segundos en su teléfono móvil.
 
@@ -98,11 +98,11 @@ Por ejemplo, podemos usar la [**Autenticador de Google**](https://play.google.co
 -   Vaya a la sección de balance y busque el símbolo Bitcoin/BTC.
 -   Haga clic en el botón de la derecha que indica **Depósito**.
 
-![img](./IMG/Finexbox-transfer-01.png)
+![img](./IMG/finexbox-transfer-01.png)
 
 Finexbox creará una cartera Bitcoin única para ti
 
-![img](./IMG/Finexbox-transfer-02.png)
+![img](./IMG/finexbox-transfer-02.png)
 
 Copia tu dirección de Wallet
 
