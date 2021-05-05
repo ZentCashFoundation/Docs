@@ -1,6 +1,8 @@
 # Docs
 Zent Cash Documentation
 
+## MINING
+- English: [Doc](https://github.com/ZentCashFoundation/Docs/blob/main/EN/Mining/How-to-mine-Zent-Cash-with-XMRig.md)
 
 ## EXCHANGERS
 
