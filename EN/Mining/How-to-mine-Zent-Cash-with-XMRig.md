@@ -18,17 +18,17 @@ Is recommeded download the builded binary from Release section https://github.co
 
 Scroll down and find the latest release for your SO.
 
-![image-20210505183138911](C:\Users\csanc\OneDrive\PROYECTOS\ZENT\DOCS\Step-by-step\IMG\github-download-release)
+![image-20210505183138911](IMG/github-download-release)
 
 Is possible your browser show a message like this:
 
-![Browser Error](C:\Users\csanc\OneDrive\PROYECTOS\ZENT\DOCS\Step-by-step\IMG\download-error-en)
+![Browser Error](IMG/download-error-en)
 
-Click on ![Show all Button](C:\Users\csanc\AppData\Roaming\Typora\typora-user-images\image-20210505191851208.png)
+Click on ![Show all Button](IMG/image-20210505191851208.png)
 
-![Keep dangerous file](C:\Users\csanc\AppData\Roaming\Typora\typora-user-images\image-20210505191922955.png)
+![Keep dangerous file](IMG/image-20210505191922955.png)
 
-![Keep Anyway](C:\Users\csanc\AppData\Roaming\Typora\typora-user-images\image-20210505191950680.png)
+![Keep Anyway](IMG/image-20210505191950680.png)
 
 Uncompress the zip file.
 
